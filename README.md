@@ -28,8 +28,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 3.run php artisan migrate
 
-4.run php artisan db:seed
+4.run php artisan key:generate
 
-5.run php artisan key:generate
-
-6.visit http://127.0.0.1:8000
+5.visit http://127.0.0.1:8000
