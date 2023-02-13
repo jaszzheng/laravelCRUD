@@ -1,0 +1,234 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\AccountInfo Object
+                (
+                    [perPage:protected] => 20
+                    [fillable:protected] => Array
+                        (
+                            [0] => username
+                            [1] => name
+                            [2] => sex
+                            [3] => birthday
+                            [4] => email
+                            [5] => remark
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => account_infos
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2
+                            [username] => aaa2
+                            [name] => aaa
+                            [sex] => 0
+                            [birthday] => 1996-06-10
+                            [email] => a@a.com
+                            [remark] => aaaaa
+                            [updated_at] => 2023-02-11 09:44:52
+                            [created_at] => 2023-02-11 09:44:52
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2
+                            [username] => aaa2
+                            [name] => aaa
+                            [sex] => 0
+                            [birthday] => 1996-06-10
+                            [email] => a@a.com
+                            [remark] => aaaaa
+                            [updated_at] => 2023-02-11 09:44:52
+                            [created_at] => 2023-02-11 09:44:52
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\Models\AccountInfo Object
+                (
+                    [perPage:protected] => 20
+                    [fillable:protected] => Array
+                        (
+                            [0] => username
+                            [1] => name
+                            [2] => sex
+                            [3] => birthday
+                            [4] => email
+                            [5] => remark
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => account_infos
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 4
+                            [username] => g
+                            [name] => g
+                            [sex] => 1
+                            [birthday] => 2023-02-01
+                            [email] => a@a.com
+                            [remark] => gg
+                            [updated_at] => 2023-02-11 13:03:58
+                            [created_at] => 2023-02-11 12:43:46
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 4
+                            [username] => g
+                            [name] => g
+                            [sex] => 1
+                            [birthday] => 2023-02-01
+                            [email] => a@a.com
+                            [remark] => gg
+                            [updated_at] => 2023-02-11 13:03:58
+                            [created_at] => 2023-02-11 12:43:46
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
